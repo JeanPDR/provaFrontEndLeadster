@@ -14,4 +14,4 @@ Este álbum de fotos foi construído com intuito de buscar fotos de acordo com a
 * No rodapé contém as informações do criador do site e suas redes sociais.
 
 # Tecnologias Usadas 👨🏻‍💻
-HTML5, CSS3 e Javascript
+HTML5, CSS3 e Javascript.
